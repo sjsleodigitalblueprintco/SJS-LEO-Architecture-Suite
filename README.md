@@ -3,7 +3,7 @@ Hardened UI/UX Architecture Suite. Includes proprietary HIPAA-ready wellness eng
 # SJS-LEO Architecture Suite v8.0
 ### Hardened UI/UX & Data Infrastructure
 
-![SJS-LEO Command Center](INSERT_IMAGE_LINK_HERE)
+![SJS-LEO Command Center]([IK_HERE](https://lh3.googleusercontent.com/gg-dl/AOI_d_-z3aIvbS9xl5_y8-V4uPHHvJtuE7SXVpZwCQtQAUuArgJA1SSYuThHsl8Uwu85wtUd3jpSlQ40MePZqYXPlXJtJ_xHI-qV9imuuqIkJUQIpEU0cg3EkgOW9AP-p3DJiAmKig2rNGh3qq16tsydNZtDYVU-KqlfhKzWUsjPZeLDPaRA1Q=s1024-rj))
 
 ## 🛠 Technical Specifications
 - **Core Engine:** SJS-LEO V2.4 Hardened Shell
